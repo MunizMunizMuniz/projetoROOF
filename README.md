@@ -1,4 +1,6 @@
-# 1.	INTRODUÇÃO
+#Projeto ROOF
+
+1.	INTRODUÇÃO
 
 O Condado de King é um dos 39 condados do estado americano de Washington. No que concerne a esse assunto, tivemos uma demanda de selecionar os 5 melhores imóveis para se investir e os 5 piores imóveis que não recomendaria para o investimento.
 Primeiramente se foi feito uma coleta do data frame disponibilizado com informações dos imóveis denominado "kc_house_data". Com essa coleta e ao fazer entender todos 21613 propriedades registradas e os 21 atributos já estabelecidas nela, foi visto que existe muitos dados corrompidos com linhas duplicadas ou nulas, sabendo disso é necessário que seja feito uma limpeza criteriosa no intuito de tornar esses dados de forma que se possa fazer uma análise perfeita da demanda do cliente.
